@@ -1,0 +1,10 @@
+OrderID	OrderDate	CustomerID	Product	Category	Quantity	UnitPrice	Region	Sales	Customer name	City	Segment
+1001	01 July 2026	C01	Laptop	Electronics	2	55000	North	110000	Aarav Sharma	Gurugram	Corporate
+1004	03 July 2026	C01	Desk	Unknown	1	15000	North	15000	Aarav Sharma	Gurugram	Corporate
+1002	02 July 2026	C02	Office Chair	Furniture	1	7500	South	7500	Priya Verma	Delhi	Consumer
+1007	08 July 2026	C02	Monitor	Electronics	3	14000	Unknown	42000	Priya Verma	Delhi	Consumer
+1003	03 July 2026	C03	Printer	Electronics	1	12000	East	12000	Rohan Mehta	Noida	Corporate
+1009	10 July 2026	C03	Keyboard	Electronics	6	1500	West	9000	Rohan Mehta	Noida	Corporate
+1006	06 July 2026	C05	Bookshelf	Furniture	2	9000	South	18000	Vikram Singh	Faridabad	Small Business
+1008	08 July 2026	C06	Table Lamp	Furniture	4	1200	East	4800	Ananya Gupta	Gurugram	Consume
+1010	11 July 2026	C07	Laptop	Electronics	1	55000	North	55000	Not registered	Unknown	Unknown
